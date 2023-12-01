@@ -1,4 +1,4 @@
-# Ecommerce-fashi_shayna
+# Ecommerce Website Apps
 Ini adalah sebuah Aplikasi E-Commerce Berbasis Website dengan menggunakan Vue + Laravel
 
 Halaman Home:
