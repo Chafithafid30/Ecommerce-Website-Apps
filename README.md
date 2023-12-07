@@ -1,7 +1,7 @@
 # Ecommerce Website Apps
 Website E-Commerce Application using Vue + Laravel
 
-# Screenshoot 🖥️:
+# Screenshoot 🖥️
 
 Home:
 ![Home](https://user-images.githubusercontent.com/71967665/123344721-aa9ddc80-d57e-11eb-9a9c-4ff07cc507b0.png)
